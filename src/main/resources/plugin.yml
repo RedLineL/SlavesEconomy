@@ -1,0 +1,9 @@
+name: SlavesEconomy
+version: '${project.version}'
+main: pixelpickles.slaveseconomy.slaveseconomy.SlavesEconomy
+api-version: 1.16
+authors: [ PixelPickes ]
+commands:
+  slave:
+    aliases:
+      - slaves
